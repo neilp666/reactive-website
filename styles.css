@@ -24,4 +24,5 @@ section {
 div {
     font-weight: 100;
     /* transform: scale(0.2); */
+    transition: transform 0.2s;
 }
